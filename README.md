@@ -38,6 +38,10 @@ For hardware rendering support:
 [VirtualGL]: http://www.virtualgl.org/
 [Lmod]: https://www.tacc.utexas.edu/research-development/tacc-projects/lmod
 
+## Installing ChimeraX On Owens
+
+To install ChimeraX simply go to [ChimeraX - Generic Linux 64-bit](https://www.rbvi.ucsf.edu/chimerax/cgi-bin/secure/chimerax-get.py?file=1.1/linux/ChimeraX-1.1.tar.gz) and accept the license agreement. Once the tar file is unzipped, the binary will be located in `chimerax/bin/ChimeraX`.
+
 ## Install
 
 Use git to clone this app and checkout the desired branch/version you want to
